@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@sayidhasan-%23181717?style=flat-square&logo=github)](https://github.com/sayid-hasan)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:syedhasanmohammad@gmail.com)](mailto:syedhasanmohammad@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-syed-hasan)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -85,16 +85,16 @@
 
 <div align='center'>
 <div align=center>
-<div align="left">
- <img width=450  align=left src="https://github-readme-stats.vercel.app/api?username=sayid-hasan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="sayid-hasan" />
+<div align="center">
+ <img width=450  align=center src="https://github-readme-stats.vercel.app/api?username=sayid-hasan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="sayid-hasan" />
 </div>
-<div align="right">
- <img width=450  align=right src="https://github-readme-streak-stats.herokuapp.com?user=sayid-hasan&theme=material-palenight" alt="GitHub Streak" />
+<div align="center">
+ <img width=450  align=center src="https://github-readme-streak-stats.herokuapp.com?user=sayid-hasan&theme=material-palenight" alt="GitHub Streak" />
 </div>
 </div>
-<br><br><br><br><br><br><br><br><br>
+
 <div align=center>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayid-hasan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sayid-hasan" />
+ <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayid-hasan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sayid-hasan" />
 </div>
 </div>
 
