@@ -15,7 +15,7 @@
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 ***virtual*** 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 <br><br><br>
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="200" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -23,26 +23,31 @@
 - 🚀 &nbsp; I’m currently exploring next.Js etc.
 - 👾 &nbsp; Fun fact: Double Not means yes.
 - 📫 &nbsp; Reach me out: syedhasanmohammad@gmail.com.
-<br><br><br><br>
+<br><br><br><br><br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
 <div align=center>
  
 <p align="center">
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code> 
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="CSS" height="25" src="Images/css.svg"></code>
+  <code><img title="Javascript" height="25" src="Images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="Images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="Images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="Images/css.svg"></code>
+<!--   <code><img title="SASS" height="25" src="Images/sass.svg"></code> -->
+  <code><img title="React" height="25" src="Images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="Images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="Images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="Images/visualstudio.png"></code>
+  <code><img title="JSON" height="25" src="Images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="Images/github.svg"></code> 
+  <code><img title="npm" height="25" src="Images/npm.svg"></code>
+  <code><img title="node" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" 
+  alt="nodejs"></code>
+  <code><img title="monogDB" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"> 
+  </code>
+  <code> <img title="firebase" height="25" src="Images/firebase.png" /> </code>
 
 </p>
 </div>
