@@ -25,34 +25,56 @@
 <hr/>
 <br><br><br>
 
-### 🎉 **Welcome to My Personal Space!** 🎉
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">
+  🎉 **Welcome to My Personal Space!** 🎉
+</h2>
 
----
 
-#### 🌟 **Explore My Portfolio and Projects** 🌟
-Check out my work and latest projects at [**Syedhasan.web.app**](https://myportfolio-4189a.web.app). Dive into the world of web development and see what I’ve been up to!
 
----
+<h3 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #e74c3c;">
+  🌟 **Explore My Portfolio and Projects** 🌟
+</h3>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #34495e;">
+  Check out my work and latest projects at <a href="https://myportfolio-4189a.web.app" style="color: #3498db; text-decoration: none;"><b>Syedhasan.web.app</b></a>. Dive into the world of web development and see what I’ve been up to!
+</p>
 
-#### 🚀 **Currently Learning** 🚀
-I’m on an exciting journey, exploring the depths of **Next.js** and **Redux**! 🚀 Always eager to expand my skill set and embrace new challenges.
 
----
 
-#### 💬 **Ask Me About** 💬
-I’m here to chat about **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, or **MongoDB**. Let's discuss, collaborate, and innovate together!
+<h3 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #e67e22;">
+  🚀 **Currently Learning** 🚀
+</h3>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #34495e;">
+  I’m on an exciting journey, exploring the depths of <b>Next.js</b> and <b>Redux</b> , <b>Framer Motion</b>, <b>Gsap</b>! 🚀 Always eager to expand my skill set and embrace new challenges.
+</p>
 
----
 
-#### 📫 **How to Reach Me** 📫
-Feel free to drop me a line at [**syedhasanmohammad@gmail.com**](mailto:syedhasanmohammad@gmail.com). I’m always open to new opportunities and exciting conversations!
 
----
+<h3 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #9b59b6;">
+  💬 **Ask Me About** 💬
+</h3>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #34495e;">
+  I’m here to chat about <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Node.js</b>, or <b>MongoDB</b>. Let's discuss, collaborate, and innovate together!
+</p>
 
-#### 📄 **My Experiences** 📄
-Discover my professional journey and achievements through my [**Resume**](https://drive.google.com). Let’s connect and make great things happen!
 
----
+
+<h3 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #1abc9c;">
+  📫 **How to Reach Me** 📫
+</h3>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #34495e;">
+  Feel free to drop me a line at <a href="mailto:syedhasanmohammad@gmail.com" style="color: #3498db; text-decoration: none;"><b>syedhasanmohammad@gmail.com</b></a>. I’m always open to new opportunities and exciting conversations!
+</p>
+
+
+<h3 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #f39c12;">
+  📄 **My Experiences** 📄
+</h3>
+<p align="center" style="font-family: 'Arial', sans-serif; color: #34495e;">
+  Discover my professional journey and achievements through my <a href="https://drive.google.com" style="color: #3498db; text-decoration: none;"><b>Resume</b></a>. Let’s connect and make great things happen!
+</p>
+
+
+
 
 
 
