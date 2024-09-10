@@ -1,28 +1,62 @@
 ##       <img align="center" src="Images/WhatsApp Image 2024-09-10 at 12.59.52 PM.jpeg"    alt="">
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 ***SAYID HASAN***
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 ***SYED HASAN***
 
+<p align="center">
+  <a href="https://github.com/sayid-hasan">
+    <img src="https://img.shields.io/badge/-@sayidhasan-%23181717?style=flat-square&logo=github" alt="GitHub Badge">
+  </a>
+  <a href="mailto:syedhasanmohammad@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-syed-hasan">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
 
-[![](https://img.shields.io/badge/-@sayidhasan-%23181717?style=flat-square&logo=github)](https://github.com/sayid-hasan)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:syedhasanmohammad@gmail.com)](mailto:syedhasanmohammad@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-syed-hasan)
+---
 
+<h4 align="center">🔍 Looking for a top-tier Developer? 🔍</h4>
+<h1 align="center">💥 Syed Hasan at Your Service 💥</h1>
+<h3 align="center">🌟 Expert Full-Stack Web Developer (MERN) from Bangladesh 🌟</h3>
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+---
 
-:computer: 𝑨 𝒘𝒆𝒃 𝒅𝒆𝒗 𝒆𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 𝒘𝒊𝒕𝒉 𝒂 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒇𝒐𝒓 ***React***.𝒋𝒔
-
-🖖 ***React***.𝒋𝒔 𝙛𝙖𝙣𝙖𝙩𝙞𝙘𝙨 | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 
-
-💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 ***virtual*** 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
+<p align="center">As a passionate Full-Stack Developer, I specialize in MERN-stack technology, boasting 4+ completed projects. I'm eager to bring my innovative and creative skills to your team, driving growth and success. Dive into my GitHub to explore my work, and let's connect to discuss how I can contribute to your next big project!</p>
+<hr/>
 <br><br><br>
-<img align="right" height="200" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuff:
+### 🎉 **Welcome to My Personal Space!** 🎉
 
-- 🛠 &nbsp; I’m currently working with JS, React, Node, etc.
-- 🚀 &nbsp; I’m currently exploring next.Js etc.
-- 👾 &nbsp; Fun fact: Double Not means yes.
-- 📫 &nbsp; Reach me out: syedhasanmohammad@gmail.com.
+---
+
+#### 🌟 **Explore My Portfolio and Projects** 🌟
+Check out my work and latest projects at [**Syedhasan.web.app**](https://myportfolio-4189a.web.app). Dive into the world of web development and see what I’ve been up to!
+
+---
+
+#### 🚀 **Currently Learning** 🚀
+I’m on an exciting journey, exploring the depths of **Next.js** and **Redux**! 🚀 Always eager to expand my skill set and embrace new challenges.
+
+---
+
+#### 💬 **Ask Me About** 💬
+I’m here to chat about **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, or **MongoDB**. Let's discuss, collaborate, and innovate together!
+
+---
+
+#### 📫 **How to Reach Me** 📫
+Feel free to drop me a line at [**syedhasanmohammad@gmail.com**](mailto:syedhasanmohammad@gmail.com). I’m always open to new opportunities and exciting conversations!
+
+---
+
+#### 📄 **My Experiences** 📄
+Discover my professional journey and achievements through my [**Resume**](https://drive.google.com). Let’s connect and make great things happen!
+
+---
+
+
+
+
 <br><br><br><br><br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
