@@ -70,7 +70,7 @@
   📄 **My Experiences** 📄
 </h3>
 <p align="center" style="font-family: 'Arial', sans-serif; color: #34495e;">
-  Discover my professional journey and achievements through my <a href="https://drive.google.com" style="color: #3498db; text-decoration: none;"><b>Resume</b></a>. Let’s connect and make great things happen!
+  Discover my professional journey and achievements through my <a href="https://docs.google.com/document/d/1krGrvW1JpOpXv7olJlCQBev0IY28UBf8zjeBOVaRR6Q/edit?usp=drive_link" style="color: #3498db; text-decoration: none;"><b>Resume</b></a>. Let’s connect and make great things happen!
 </p>
 
 
